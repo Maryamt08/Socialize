@@ -1,0 +1,23 @@
+{
+  "name": "socialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryamt08/Socialize.git"
+  },
+  "author": "Maryam Tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryamt08/Socialize/issues"
+  },
+  "homepage": "https://github.com/Maryamt08/Socialize#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
